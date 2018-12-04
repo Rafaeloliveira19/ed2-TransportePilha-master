@@ -1,0 +1,7 @@
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\bin\Debug\TransportesTP.exe.config
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\bin\Debug\TransportesTP.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\bin\Debug\TransportesTP.pdb
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\obj\Debug\TransportesTP.csprojAssemblyReference.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\obj\Debug\TransportesTP.csproj.CoreCompileInputs.cache
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\obj\Debug\TransportesTP.exe
+C:\Users\Sherlock\Desktop\Rafael\ed2-TransportePilha-master\TransportesTP\TransportesTP\obj\Debug\TransportesTP.pdb
